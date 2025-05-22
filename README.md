@@ -36,8 +36,8 @@
 ![image](https://github.com/user-attachments/assets/b3eedc60-8c95-4677-9b10-2c01b8edf8a9)
 
 
-### Name: MOHAN S
-### Register Number:212223240094
+### Name: VIGNESH V
+### Register Number:212223110062
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
